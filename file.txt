@@ -1,2 +1,3 @@
 My first line in project
-Paris is the capital of France
+Paris is the capital of FranceComment for modified1 status
+Comment for modified2 status
